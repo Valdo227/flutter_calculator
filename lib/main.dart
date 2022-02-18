@@ -39,7 +39,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   final List<String> operators = ['/', 'x', '-', '+', '%'];
 
-  String _output = '0';
+  String _output = '';
   String get output => _output;
 
   bool _result = false;
