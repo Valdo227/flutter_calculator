@@ -2,4 +2,5 @@
 
 Calculator made in flutter
 
-![image](https://user-images.githubusercontent.com/59632809/154621174-0b011776-63e2-470d-a2f6-7d91603a3392.png)
+
+![Screenshot_1645161010](https://user-images.githubusercontent.com/59632809/154621740-bec32eba-c6af-408e-9f84-ccd441a233af.png)
